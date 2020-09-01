@@ -1,4 +1,4 @@
-# ArrayList
+# Contact list management
 This program implements a simple mobile phone that allows user to manage their contact list
 
 The implemented mobile phone is able to store, modify, remove and query contact names. 
